@@ -1,0 +1,14 @@
+{
+  "name": "memory-game-v2",
+  "version": "1.0.0",
+  "description": "This unofficial fan art is a tribute to the great [CD Projekt](https://www.playgwent.com/en/fan-content)'s «The Witcher»'s universe.\r It is NOT actually endorsed or promoted by CD Projectk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cedric-F <cedric.fontaine@gmx.fr>",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
