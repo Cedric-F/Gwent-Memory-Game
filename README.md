@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installation
 
-**[Live page](https://cedric-f.github.io/Memory-Game-v2/)**
+**[Live page](https://cedric-f.github.io/Gwent-Memory-Game/)**
 
 **Cloning the repository**
 ```
