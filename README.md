@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 **Cloning the repository**
 ```
-git clone https://github.com/Cedric-F/Cedric-F.github.io.git
+git clone https://github.com/Cedric-F/Gwent-Memory-Game.git
 ```
 
 Browse to the `Memory-Game-v2` directory.
